@@ -2,7 +2,7 @@
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname word-uppercase) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 ;;================================================================================;;
-;;Developer: rob93c                                                               ;;
+;;Developer: Roberto Cella                                                        ;;
 ;;Contact me via mail: rob.uniud@gmail.com                                        ;; 
 ;;Follow me on Twitter: www.twitter.com/rob93c                                    ;;
 ;;================================================================================;;
