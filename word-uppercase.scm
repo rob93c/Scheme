@@ -17,7 +17,7 @@
                           (word-uppercase (tail word))))
           ((char=? (string-ref word 0) #\space)
            (string-append
-            ""
+            " "
             (word-uppercase (tail word))))
           (else                                                 ; if uppercase
            (string-append
